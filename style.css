@@ -4,6 +4,9 @@ body{
 h1{
     font-size: 45px;
 }
+h2{
+    font-size: 30px;
+}
 .orange-color{
     color: orange;
 }
@@ -18,6 +21,9 @@ section{
     width: 80%;
 
 }
+.myself{
+   background-image: url(Frame 58 - Copy.jpg);
+}
 .link-tap{
     text-decoration: none;
     color: white;
@@ -25,4 +31,7 @@ section{
     padding: 10px 40px;
     border-radius: 30px;
     font-weight: 700;
+}
+.gray-color{
+    color: gray;
 }
