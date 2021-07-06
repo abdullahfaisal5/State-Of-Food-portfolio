@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 45px;
@@ -78,8 +79,8 @@ section{
 }
 .conclusion{
     text-align: center;
-    padding-top: 7px;
-    padding-bottom: 7px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 footer{
     background-color: black;
