@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 45px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.food-review{
+    width: 50%;
+    padding: 2%;
+}
+.food-review img{
+    width: 80%;
+
+}
+.link-tap{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(Orange, tomato);
+    padding: 10px 40px;
+    border-radius: 30px;
+    font-weight: 700;
+}
